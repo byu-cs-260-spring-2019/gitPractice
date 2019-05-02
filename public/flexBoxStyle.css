@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    height: 300px;
+    /* flex-direction: row; */
+}
+.navbar{
+    flex: 2;
+    background-color: lightblue;
+}
+.content{
+    flex: 10;
+    background-color: lightcoral;
+}
